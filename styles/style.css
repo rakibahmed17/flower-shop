@@ -111,4 +111,18 @@ background: rgba(71, 125, 17, 0.15);
   text-align: center;
   width: 30%;
 
+} 
+.hot-deal-section{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+  height: 620px;
+  width: 100%;
+  margin-top: 50px;
+  border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+.deal-area{
+  width:50% ;
+  font-size: 20px;
 }
