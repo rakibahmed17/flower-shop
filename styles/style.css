@@ -175,4 +175,33 @@ height: 50vh;
 }
 .input-section{
   text-align: center;
+} .footer-section{
+  text-align: center;
+}
+
+/* footer-section style */
+
+.footer-section{
+ padding: 50px;
+ margin: 40px;
+  width: 1150px;
+  height: 350px;
+  flex-shrink: 0;
+  background: #111010;
+}
+.footer-section small{
+  font-size: 18px;
+  color: bisque;
+}
+.flower{
+  color: rgb(246, 86, 86);
+  font-size: 50px;
+} 
+.shop{
+  color: #FFF;
+  font-size: 50px;
+}
+#footer-paragraph{
+  color:bisque ;
+  font-size: 18px;
 }
